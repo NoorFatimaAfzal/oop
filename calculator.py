@@ -21,6 +21,5 @@ class calculator:
             return x/y
         return ans
                 
-    
 calculator1=calculator()
 print(calculator1.divide(5,0))
